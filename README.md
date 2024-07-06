@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidhant-kumar08
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me - @contactsidhant09@gmail.com
+- 📫 How to reach me - @contactsidhant08@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
