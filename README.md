@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sidhant-kumar08<br>👀 I’m interested in programming<br>🌱 I’m currently learning MERN stack<br>📫 How to reach me - @contactsidhant08@gmail.com<br>😄 Pronouns: He/Him
+👋 Hi, I’m @sidhant-kumar08<br>👀 I’m interested in programming<br>🌱 Fullstack Developer<br>📫 How to reach me - @contactsidhant08@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
