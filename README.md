@@ -19,38 +19,10 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently Building**: **[TripOS](https://github.com/sidhant-kumar08/TripOS)** — A production-grade, AI-powered Group Travel Operating System designed to replace WhatsApp, Splitwise, and spreadsheets for group trip coordination.
-- 💡 **Core Expertise**: Full-Stack Architecture (Next.js, NestJS), Database Design (PostgreSQL, Prisma), and Conversational AI Integration (Google Gemini, NLP entity resolution).
-- ⚡ **Engineering Focus**: Clean modular code, type-safe monorepos (Turborepo/pnpm), deterministic debt minimization algorithms, and resilient offline-first UX.
+- 🔭 **Currently Working On**: Scalable full-stack web applications, modern distributed systems, and intelligent AI agents.
+- 💡 **Core Expertise**: Full-Stack Architecture (Next.js, React, NestJS), Database Design (PostgreSQL, Prisma), and Conversational AI Integration (Google Gemini, NLP parsing).
+- ⚡ **Engineering Focus**: Clean modular code, type-safe monorepos (Turborepo/pnpm), deterministic algorithms, and resilient offline-first UX.
 - 📫 **Get in Touch**: [contactsidhant08@gmail.com](mailto:contactsidhant08@gmail.com)
-
----
-
-### ⭐ Featured Project
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="left">🧭 <a href="https://github.com/sidhant-kumar08/TripOS">TripOS — Group Travel Operating System</a></h3>
-      <p>
-        A unified collaborative workspace for friends traveling together. Replaces fragmented group chats, shared notes, and lost booking emails with one centralized operating system.
-      </p>
-      <ul>
-        <li>🤖 <b>AI Operational Intelligence</b>: Conversational NLP expense & task parser supporting English, Hinglish, and Indian colloquialisms (<i>"5k", "2 hazar", "kal subah", "split except Rahul"</i>) with zero-trust member resolution powered by Gemini 2.5 Flash.</li>
-        <li>🚨 <b>Trip Command Center</b>: Real-time operational layer featuring Departure Countdowns, Live Weather Integrations, Offline Emergency SOS Protocols, and Travel Alerts.</li>
-        <li>💸 <b>Multi-Currency Split Ledger</b>: Automated debt minimization graph algorithms, custom split weights, and multi-currency settlement.</li>
-        <li>🔒 <b>Encrypted Trip Vault</b>: Secure PDF/image document storage (e-tickets, hotel vouchers, boarding passes) with Supabase Cloud Storage.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js 14</code> • <code>NestJS</code> • <code>TypeScript</code> • <code>Prisma ORM</code> • <code>PostgreSQL</code> • <code>Gemini Flash</code> • <code>Tailwind CSS</code> • <code>Turborepo</code>
-      </p>
-      <p>
-        🔗 <a href="https://tripos-app-kappa.vercel.app"><b>Live Demo</b></a> • 
-        📁 <a href="https://github.com/sidhant-kumar08/TripOS"><b>Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
